@@ -1,6 +1,6 @@
 # SCT_WD_1  Responsive Landing Page
 
-# Project Overview
+# Overview
 This project is a responsive landing page featuring an interactive navigation menu that changes style when scrolling or hovering over menu items. The navigation bar remains fixed and visible across all sections.
 
 # Features
